@@ -1,0 +1,2 @@
+Open two terminal windows, one is the server, another is the clients, one using “./server.sh” and wait, another using”./ client.sh ”+”$id”(e.g. ./client.sh 2). And then print command in the clients, the command of “create_database $database”, “create_table $database $NewTable $column1,$column2,$column3”, “insert $database $NewTable $info1,$info2,$info3”, “select $database $NewTable 1,2,3”.
+You can also run the test_example.sh in the file, which is the testing file that given on the moodle.
